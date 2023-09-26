@@ -1,0 +1,29 @@
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+section {
+    background: url(../img/mac.jpg) center / cover no-repeat;
+    width: 100%;
+    min-height: 100vh;
+    text-align: center;
+    padding: 20vh 20vh;
+    
+}
+
+
+h1 {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgba(240, 248, 255, 0.208);
+    font-size: 3rem;
+    width: 50%;
+    margin: 0 auto;
+}
